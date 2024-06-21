@@ -1,2 +1,2 @@
-t git configuration 
+Git configuration 
 
