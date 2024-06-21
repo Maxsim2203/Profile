@@ -1,2 +1,2 @@
-Test git configuration 
+t git configuration 
 
